@@ -74,4 +74,4 @@
 
 示例图片如下：
 
-![]()
+![](https://github.com/wangdeming/DMWatermark/blob/master/水印.gif)
